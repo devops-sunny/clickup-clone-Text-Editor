@@ -3,7 +3,7 @@
   "description": "Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.",
   "version": "0.8.1",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "workspaces": [
     "packages/*"
   ],
