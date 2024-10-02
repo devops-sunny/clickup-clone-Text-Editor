@@ -1,5 +1,5 @@
 {
-  "name": "@ohs/lexical-playground",
+  "name": "@lexical/texteditorclickup",
   "description": "A temporary packaged fork of Lexical's official playground.",
   "license": "MIT",
   "keywords": [
@@ -10,7 +10,7 @@
     "rich-text",
     "wysiwyg"
   ],
-  "version": "0.8.1",
+  "version": "0.0.1",
   "main": "LexicalPlayground.js",
   "scripts": {
     "dev": "vite --host",
