@@ -1,0 +1,29 @@
+{
+  "name": "@lexical/markdown",
+  "description": "This package contains Markdown helpers and functionality for Lexical.",
+  "keywords": [
+    "lexical",
+    "editor",
+    "rich-text",
+    "markdown"
+  ],
+  "license": "MIT",
+  "version": "0.8.1",
+  "main": "LexicalMarkdown.js",
+  "peerDependencies": {
+    "lexical": "0.8.1"
+  },
+  "dependencies": {
+    "@lexical/utils": "0.8.1",
+    "@lexical/code": "0.8.1",
+    "@lexical/text": "0.8.1",
+    "@lexical/rich-text": "0.8.1",
+    "@lexical/list": "0.8.1",
+    "@lexical/link": "0.8.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/facebook/lexical",
+    "directory": "packages/lexical-markdown"
+  }
+}
